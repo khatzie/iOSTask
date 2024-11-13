@@ -1,0 +1,30 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "2iK-6f-WnH.text" : {
+      "comment" : "Class = \"UITextView\"; text = \"Were you able to use any of them when angry? \"; ObjectID = \"2iK-6f-WnH\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Were you able to use any of them when angry? "
+          }
+        }
+      }
+    },
+    "N84-83-alk.title" : {
+      "comment" : "Class = \"UINavigationItem\"; title = \"Title\"; ObjectID = \"N84-83-alk\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Title"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
